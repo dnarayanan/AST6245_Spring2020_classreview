@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {I}Spontaneous Emission, Stimulated Emission, and Absorption}{3}{chapter.1}
+\contentsline {chapter}{\numberline {II}Radiative Transfer}{4}{chapter.2}
+\contentsline {chapter}{\numberline {III}Stellar Atmospheres}{5}{chapter.3}
+\contentsline {chapter}{\numberline {IV}Statistical Equilibrium: Bound-Bound Transitions}{6}{chapter.4}
+\contentsline {chapter}{\numberline {V}Statistical Equilibrium: Bound-Free Transitions (i.e. Photoionization)}{7}{chapter.5}
+\contentsline {chapter}{\numberline {VI}Free-Free Emission}{8}{chapter.6}
+\contentsline {chapter}{\numberline {VII}Synchrotron Radiation}{9}{chapter.7}
